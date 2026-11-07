@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/GODIN8/Social-Links-Profile)
-- Live Site URL: [Github-pages] (https://godin8.github.io/Social-Links-Profile/)
+- Live Site URL: [Github-pages](https://godin8.github.io/Social-Links-Profile/)
 
 ## My process
 
