@@ -13,7 +13,6 @@ body{
     place-content: center;
     font-family: "Inter";
     color: white;
-    /* min-height: 100vh; */
 }
 
 .card{
