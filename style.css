@@ -5,6 +5,7 @@
 html{
     height: 100%;
     background-color: hsl(0, 0%, 8%);
+    min-height: 100%;
 }
 
 body{
@@ -12,6 +13,7 @@ body{
     place-content: center;
     font-family: "Inter";
     color: white;
+    /* min-height: 100vh; */
 }
 
 .card{
@@ -68,4 +70,14 @@ body{
 .button:hover{
     background-color: hsl(75, 94%, 57%);
     color: black;
+}
+
+@media (max-width: 375px) {
+    .card {
+        padding: 20px;
+    }
+
+    .name {
+        font-size: 1.5rem;
+    }
 }
