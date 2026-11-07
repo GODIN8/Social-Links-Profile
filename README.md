@@ -57,7 +57,7 @@ For example:
 
 ### Useful resources
 
-- W3schools (https://www.w3schools.com/) - This website helped me understand how to use media queries in this project.
+- [W3schools] (https://www.w3schools.com/) - This website helped me understand how to use media queries in this project.
 
 ## Author
 
